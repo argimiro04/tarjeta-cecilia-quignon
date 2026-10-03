@@ -1,0 +1,27 @@
+# ============================================================
+# Repositorio PUBLICO: aqui solo entra lo que necesita la web.
+# Todo lo de abajo se queda en local.
+# ============================================================
+
+# --- Fotos originales -------------------------------------------------------
+# Resolucion completa y metadatos de camara. Lo que se publica son las
+# copias ya procesadas de imagenes/.
+fotos originales/
+fotos-originales/
+
+# --- Copias de seguridad locales del HTML -----------------------------------
+Backups/
+
+# --- Documentos internos del encargo ----------------------------------------
+# contenido-cecilia.md lleva el correo de Cecilia EN TEXTO PLANO: si se sube,
+# los robots de spam lo leen al instante y la proteccion del index.html
+# (que monta la direccion por trozos con JS) deja de servir de nada.
+# El diagrama y las notas de trabajo tampoco son para publicar.
+contenido-cecilia.md
+diagrama inicial.drawio.png
+CLAUDE.md
+
+# --- Basura del sistema -----------------------------------------------------
+Thumbs.db
+desktop.ini
+.DS_Store
