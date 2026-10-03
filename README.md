@@ -3,7 +3,7 @@
 Tarjeta digital de una artista plástica: una sola página, pensada para abrirse desde un
 código QR impreso. Encargo real, en desarrollo.
 
-🔗 **Ver la página:** `https://USUARIO.github.io/REPOSITORIO/`
+🔗 **Ver la página:** https://argimiro04.github.io/tarjeta-cecilia-quignon/
 
 > **Estado: maqueta en curso.** El diseño y el funcionamiento están terminados, pero los
 > textos (biografía, títulos de las obras, años y técnicas) aparecen como `Rellenar` a la
@@ -128,4 +128,4 @@ coordenadas GPS que se hayan eliminado.
 Las imágenes de las obras son **© Cecilia Quignón**, publicadas con su autorización.
 No pueden reutilizarse sin su permiso.
 
-El código de la página está escrito por [@ArgimiroMF](https://github.com/ArgimiroMF).
+El código de la página está escrito por [@argimiro04](https://github.com/argimiro04).
